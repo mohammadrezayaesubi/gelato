@@ -1,0 +1,10 @@
+pinecone
+dotenv
+pypdf
+spacy
+tqdn
+streamlit
+langchain
+langchain-community
+langchain-pinecone
+langchain-google-genai
